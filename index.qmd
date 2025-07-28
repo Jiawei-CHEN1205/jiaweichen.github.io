@@ -21,9 +21,9 @@ about:
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/0000-0001-7653-4998
-    - icon: id
-      text: Linkedln
-      href: https://orcid.org/0000-0001-7653-4998
+    # - icon: id
+    #   text: Linkedln
+    #   href: https://orcid.org/0000-0001-7653-4998
     # - icon: brands zhihu
     #   text: 知乎
     #   href: https://www.zhihu.com/people/arlionn/
