@@ -1,0 +1,38 @@
+---
+title: "Others"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+## Invited Talk 
+
+- 2025 POMS International Conference in China: Integrated UAV and Human Courier System for Emergency Medical Delivery Service, \@ Ocean Flower Island International Conference Center in Danzhou City, Hainan Province, China, 12 July, 2025 
+- PolyU AAE Aviation Workshop: Cooperative Learning-based Joint UAV and Human Courier Scheduling for Emergency Medical Delivery Service, \@ The Hong Kong Polytechnic University, Hong Kong SAR, China, 22 Nov, 2024 
+
+
+## Journal Reviewer
+- Engineering Applications of Artificial Intelligence (EAAI)
+- IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Intelligent Transportation Systems
+
+## Volunteer \& Assistant
+
+- The 28th Air Transport Research Society (ATRS) World Conference, July 2025 \@ Hong Kong
+
+## Honor \& Award
+
+- PolyU Research Scholarship, 2022 - 2026
+- HITSZ University Scholarship, 2018 - 2022
+<!-- - 举例一些best paper award, student paper award之类的 -->
+
+## Teaching \& Tutorial
+
+- AAE3006 Safety, Reliability and Compliance (Undergraduate)
+- AAE5103 Artificial Intelligence in Aviation Industry (Master)
+
+## Experience
+
+- Algorithm Intern, [MoguLinker](https://www.mogulinker.com/)@Shenzhen, China, May 2022 - Aug 2022
+- Product R&D Intern, [Shenzhen Ldrobot Co., Ltd.](https://www.ldrobot.com/)@Shenzhen, China, Nov 2021 - Apr 2022

@@ -6,7 +6,7 @@ editor:
 ---
 
 Many of the links below will take you to content on GitHub
-([my github](https://github.com/arlionn)).
+([my github](https://github.com/Jiawei-CHEN1205)).
 
 - `lianxh`：在 Stata 中快速搜索 [lianxh.cn](https://www.lianxh.cn) 推文并按指定格式输出
   - 连享会, 2020, [ssc install lianxh：你想要的 Stata 都在这里](https://www.lianxh.cn/details/233.html)

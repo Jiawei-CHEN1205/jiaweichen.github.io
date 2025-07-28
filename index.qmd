@@ -1,62 +1,58 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "Jiawei Chen"
+image: images/bio-photo.jpg
 about:
   id: hero-heading
   template: trestles
   image-width: 12em
   image-shape: round
   links:
+    - icon: map
+      text: Hong Kong
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
+      text: byzcj1205@gmail.com
+      href: mailto:byzcj1205@gmail.com
     - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
+      text: WendyCHEN1205
+      href: https://github.com/Jiawei-CHEN1205
     - icon: book
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+      href: https://scholar.google.com/citations?user=KPtUwlYAAAAJ&hl=zh-CN
     - icon: fingerprint
       text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
-    - icon: 📝
-      text: CV
-      href: CV.pdf  
+      href: https://orcid.org/0000-0001-7653-4998
+    - icon: id
+      text: Linkedln
+      href: https://orcid.org/0000-0001-7653-4998
+    # - icon: brands zhihu
+    #   text: 知乎
+    #   href: https://www.zhihu.com/people/arlionn/
+    # - icon: brands weibo
+    #   text: 微博
+    #   href: https://weibo.com/arlionn
+    # - icon: brands xing
+    #   text: 小红书
+    #   href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
+    # - icon: solid user
+    #   text: 工作主页
+    #   href: https://lingnan.sysu.edu.cn/faculty/LianYujun
+    # - icon: 📝
+    #   text: CV
+    #   href: CV.pdf  
 ---
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+## About me
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
+Hello! My name is Jiawei Chen, and I am currently a Ph.D. candidate in Department of Aeronautical and Aviation Engineering (AAE) at The Hong Kong Polytechnic University (PolyU). My long-term research lies at the intersection of machine learning and other disciplines, with a particular focus on learning-based optimization, cooperative AI, and machine learning-driven control. The core of my work is leveraging artificial intelligence to enable decision-making and optimization for complex problems.
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
-
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
+Specifically, my research interests include reinforcement learning for combinatorial optimization, real-time optimization and deployment in healthcare and emergency scenarios, as well as predictive control and energy optimization in energy systems. I am passionate about developing innovative AI-driven solutions to address challenging decision-making and optimization tasks across various domains.
 
 
 ## Background
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+- Sep 2022 - Present: Ph.D. Candidate, The Hong Kong Polytechnic University, Hong Kong, China.
+- Sep 2018 - Aug 2022: Bachelor of Engineering in Automation, Harbin Institute of Technology, Shenzhen, China.
 
 :::

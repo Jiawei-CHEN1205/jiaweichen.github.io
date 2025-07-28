@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Jiawei Chen"
+  site-url: https://jiaweichen.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/jiaweichen/jiaweichen.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [\@ 2025 Jiawei Chen](https://www.chenjw.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -24,16 +24,18 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
+      # - text: "Books"
+      #   href: books.qmd
+      # - text: "Blogs"
+      #   href: blog.qmd
+      # - text: "Codes"
+      #   href: codes.qmd
+      - text: "Others"
+        href: others.qmd
+      - text: "Chinese"
         href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
+      # - text: "CV"
+      #   href: CV.pdf
 
 format:
   html:
