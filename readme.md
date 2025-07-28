@@ -1,7 +1,7 @@
 
 ##  Personal Homepage of Jiawei Chen
 
-This is my [personal homepage](https://jiaweichen.github.io/) showcasing my profile, research, and contact information. Welcome!
+This is my [personal homepage](https://jiawei-chen1205.github.io/jiaweichen.github.io/) showcasing my profile, research, and contact information. Welcome!
 
 
 Feel free to fork this project and customize it to build your own personal homepage~

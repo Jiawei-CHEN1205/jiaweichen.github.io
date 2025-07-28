@@ -6,13 +6,13 @@ website:
   page-navigation: true
   title: "Jiawei Chen"
   site-url: https://jiaweichen.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/jiaweichen/jiaweichen.github.io
+  favicon: images/site-logo-C.jpg
+  repo-url: https://jiawei-chen1205.github.io/jiaweichen.github.io/
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [\@ 2025 Jiawei Chen](https://www.chenjw.cn)<br>
+      [\@ 2025 Jiawei Chen](https://jiawei-chen1205.github.io/jiaweichen.github.io/)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
