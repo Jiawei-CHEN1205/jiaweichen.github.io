@@ -12,7 +12,7 @@ website:
   
   page-footer:
     left: |
-      [\@ 2025 Jiawei Chen](https://jiawei-chen1205.github.io/jiaweichen.github.io/)<br>
+      [&copy; 2025 Jiawei Chen](https://jiawei-chen1205.github.io/jiaweichen.github.io/)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
