@@ -14,8 +14,9 @@ editor:
 
 ## Journal Reviewer
 - Engineering Applications of Artificial Intelligence (EAAI)
-- IEEE Transactions on Automation Science and Engineering
-- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
+- IEEE Transactions on Intelligent Transportation Systems (ITS)
+- IEEE Transactions on Industrial Informatics (TII)
 
 ## Volunteer \& Assistant
 

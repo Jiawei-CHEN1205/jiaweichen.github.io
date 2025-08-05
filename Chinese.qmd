@@ -56,8 +56,9 @@ editor:
 
 1. 期刊 \& 会议审稿人
 - Engineering Applications of Artificial Intelligence (EAAI)
-- IEEE Transactions on Automation Science and Engineering
-- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
+- IEEE Transactions on Intelligent Transportation Systems (ITS)
+- IEEE Transactions on Industrial Informatics (TII)
 2. 会议志愿者 \& 助理
 - The 28th Air Transport Research Society (ATRS) World Conference，2025年7月 @ 中国香港
 
