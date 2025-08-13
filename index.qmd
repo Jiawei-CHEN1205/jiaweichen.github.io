@@ -52,7 +52,7 @@ Specifically, during PhD, my research interests include reinforcement learning f
 
 ## Background
 
-- Sep 2022 - Present: Ph.D. Candidate, INSys Group, The Hong Kong Polytechnic University, Hong Kong, China.
-- Sep 2018 - Aug 2022: Bachelor of Engineering in Automation, Harbin Institute of Technology, Shenzhen, China.
+- Sep 2022 - Present: Ph.D. Candidate, INSys Group, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong, China.
+- Sep 2018 - Aug 2022: Bachelor of Engineering in Automation, [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), China.
 
 :::
