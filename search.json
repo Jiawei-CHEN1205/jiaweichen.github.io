@@ -21,13 +21,6 @@
     "text": "陈家苇，女，博士在读。2022年毕业于哈尔滨工业大学（深圳）机电工程与自动化学院，获自动化专业工学学士学位。2022年秋季至今，就读于香港理工大学航空及民航工程学系，预计于2026年6月毕业。研究方向为人工智能驱动的优化决策，预测控制等，成果见诸 IEEE Transactions on Intelligent Transportation Systems, Management Science, Advanced Engineering Informatics, IEEE Transactions on Automation Science and Engineering 等期刊。"
   },
   {
-    "objectID": "Chinese.html#个人简介",
-    "href": "Chinese.html#个人简介",
-    "title": "中文简历",
-    "section": "",
-    "text": "陈家苇，女，博士在读。2022年毕业于哈尔滨工业大学（深圳）机电工程与自动化学院，获自动化专业工学学士学位。2022年秋季至今，就读于香港理工大学航空及民航工程学系，预计于2026年6月毕业。研究方向为人工智能驱动的优化决策，预测控制等，成果见诸 IEEE Transactions on Intelligent Transportation Systems, Management Science, Advanced Engineering Informatics, IEEE Transactions on Automation Science and Engineering 等期刊。"
-  },
-  {
     "objectID": "Chinese.html#教育和工作背景",
     "href": "Chinese.html#教育和工作背景",
     "title": "中文简历",
@@ -42,11 +35,11 @@
     "text": "研究兴趣\n\nReinforcement Learning for Combinatorial Optimization\nHealthcare and Emergency Decision-Making\nIntelligent Transportation Systems\nPredictive Control\nCooperative AI"
   },
   {
-    "objectID": "Chinese.html#部分论文",
-    "href": "Chinese.html#部分论文",
+    "objectID": "Chinese.html#发表论文",
+    "href": "Chinese.html#发表论文",
     "title": "中文简历",
-    "section": "部分论文",
-    "text": "部分论文\n\n**Chen, J.**, Wan, P., & Xu, G. (2025). Cooperative Learning-Based Joint UAV and Human Courier Scheduling for Emergency Medical Delivery Service. IEEE Transactions on Intelligent Transportation Systems. \nWan, P., Xu, G., **Chen, J.**, & Zhou, Y. (2024). Deep Reinforcement Learning Enabled Multi-UAV Scheduling for Disaster Data Collection With Time-Varying Value. IEEE Transactions on Intelligent Transportation Systems. \n**Chen, J.**, Xu, G., & Zhou, Z. (2023). Data-driven learning-based Model Predictive Control for energy-intensive systems. Advanced Engineering Informatics, 58, 102208–102208. \n**Chen, J.**, Wan, P., Xu, G., & Shao, S. (2023). Collaborative Medical Delivery Service with UAVs and Human Couriers. 2023 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 1340–1345."
+    "section": "发表论文",
+    "text": "发表论文\n\n**Chen, J.**, Wan, P., & Xu, G. (2025). Cooperative Learning-Based Joint UAV and Human Courier Scheduling for Emergency Medical Delivery Service. IEEE Transactions on Intelligent Transportation Systems. \nWan, P., Xu, G., **Chen, J.**, & Zhou, Y. (2024). Deep Reinforcement Learning Enabled Multi-UAV Scheduling for Disaster Data Collection With Time-Varying Value. IEEE Transactions on Intelligent Transportation Systems. \n**Chen, J.**, Xu, G., & Zhou, Z. (2023). Data-driven learning-based Model Predictive Control for energy-intensive systems. Advanced Engineering Informatics, 58, 102208–102208. \n**Chen, J.**, Wan, P., Xu, G., & Shao, S. (2023). Collaborative Medical Delivery Service with UAVs and Human Couriers. 2023 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 1340–1345."
   },
   {
     "objectID": "about.html",

@@ -1,47 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jiaweichen.github.io/blog.html</loc>
-    <lastmod>2025-07-23T08:26:48.772Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweichen.github.io/about.html</loc>
-    <lastmod>2025-07-23T13:55:00.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweichen.github.io/readme.html</loc>
-    <lastmod>2025-07-28T04:51:01.244Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweichen.github.io/codes.html</loc>
-    <lastmod>2025-07-23T14:02:27.636Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweichen.github.io/CV.html</loc>
-    <lastmod>2025-07-23T08:26:48.765Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweichen.github.io/others.html</loc>
-    <lastmod>2025-08-05T04:29:40.976Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweichen.github.io/books.html</loc>
-    <lastmod>2025-07-23T08:26:48.773Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweichen.github.io/Chinese.html</loc>
-    <lastmod>2025-08-05T04:29:39.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jiaweichen.github.io/index.html</loc>
-    <lastmod>2025-08-13T08:29:56.736Z</lastmod>
+    <loc>https://jiaweichen.github.io/Teaching.html</loc>
+    <lastmod>2025-07-23T08:26:48.769Z</lastmod>
   </url>
   <url>
     <loc>https://jiaweichen.github.io/publications.html</loc>
     <lastmod>2025-08-14T12:18:32.330Z</lastmod>
   </url>
   <url>
-    <loc>https://jiaweichen.github.io/Teaching.html</loc>
-    <lastmod>2025-07-23T08:26:48.769Z</lastmod>
+    <loc>https://jiaweichen.github.io/index.html</loc>
+    <lastmod>2025-08-13T08:29:56.736Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaweichen.github.io/others.html</loc>
+    <lastmod>2025-08-05T04:29:40.976Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaweichen.github.io/Chinese.html</loc>
+    <lastmod>2025-08-05T04:29:39.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaweichen.github.io/readme.html</loc>
+    <lastmod>2025-07-28T04:51:01.244Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaweichen.github.io/about.html</loc>
+    <lastmod>2025-07-23T13:55:00.812Z</lastmod>
   </url>
 </urlset>
