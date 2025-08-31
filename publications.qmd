@@ -11,7 +11,19 @@ editor: visual
 > -   **ResearchGate:** <https://www.researchgate.net/profile/Jiawei-Chen-74>
 :::
 
- 
+## Research Interests
+
+-   Reinforcement Learning for Combinatorial Optimization
+
+-   Data-driven Optimization
+
+-   Healthcare & Emergency Decision-Making
+
+-   Intelligent Transportation Systems
+
+-   Cooperative AI
+
+-   Predictive Control
 
 ## Journal Paper
 
