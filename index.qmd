@@ -21,9 +21,9 @@ about:
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/0000-0001-7653-4998
-    # - icon: brands linkedln
-    #   text: Linkedln
-    #   href: https://orcid.org/0000-0001-7653-4998
+    - icon: faLinkedin
+      text: Linkedln
+      href: https://www.linkedin.com/in/jiawei-chen-542577250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
     # - icon: brands zhihu
     #   text: 知乎
     #   href: https://www.zhihu.com/people/arlionn/
