@@ -28,11 +28,11 @@ editor:
 ## 研究兴趣
 
 - Reinforcement Learning for Combinatorial Optimization
-- Data-driven Optimization
+- Data-driven Optimization and Control
 - Healthcare \& Emergency Decision-Making
 - Intelligent Transportation Systems
-- Predictive Control
 - Cooperative AI
+- Dynamic Optimization
 <!-- 有待更新 -->
 
 

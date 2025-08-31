@@ -13,12 +13,12 @@ editor: visual
 
 ## Research Interests
 
--   Reinforcement Learning for Combinatorial Optimization
--   Data-driven Optimization
--   Healthcare & Emergency Decision-Making
--   Intelligent Transportation Systems
--   Cooperative AI
--   Predictive Control
+-  Reinforcement Learning for Combinatorial Optimization
+-  Data-driven Optimization and Control
+-  Healthcare \& Emergency Decision-Making
+-  Intelligent Transportation Systems
+-  Cooperative AI
+-  Dynamic Optimization
 
 ## Journal Paper
 
