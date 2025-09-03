@@ -14,7 +14,7 @@ editor:
 - 电话：852-96350935
 - 地址：香港特别行政区，九龙红磡育才道11号，香港理工大学
 - Github: <https://github.com/Jiawei-CHEN1205>
-- 个人主页：<https://jiaweichen.github.io>
+- 个人主页：<https://jiawei-chen1205.github.io/jiaweichen.github.io/>
 
 ## 教育和工作背景
 
