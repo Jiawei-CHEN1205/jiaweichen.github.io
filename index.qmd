@@ -45,7 +45,7 @@ about:
 
 ## About me
 
-Hello! My name is Jiawei Chen, and I am a rising fourth-year Ph.D. candidate in Department of Aeronautical and Aviation Engineering (AAE) at The Hong Kong Polytechnic University (PolyU), where I am fortunate to be advised by [Prof. Gangyan Xu](https://www.polyu.edu.hk/aae/people/academic-staff/dr-xu-gangyan/). My long-term research lies at the intersection of machine learning and other disciplines, with a particular focus on learning-based optimization, cooperative AI, and machine learning-driven control. The core of my work is leveraging artificial intelligence to enable decision-making and optimization for complex problems.
+Hello! My name is Jiawei Chen, and I am a rising fourth-year Ph.D. Candidate in Department of Aeronautical and Aviation Engineering (AAE) at The Hong Kong Polytechnic University (PolyU), where I am fortunate to be advised by [Prof. Gangyan Xu](https://www.polyu.edu.hk/aae/people/academic-staff/dr-xu-gangyan/). My long-term research lies at the intersection of machine learning and other disciplines, with a particular focus on learning-based optimization, cooperative AI, and machine learning-driven control. The core of my work is leveraging artificial intelligence to enable decision-making and optimization for complex problems.
 
 Specifically, during PhD, my research interests include reinforcement learning for combinatorial optimization, real-time optimization and deployment in healthcare and emergency scenarios, as well as predictive control and energy optimization in energy systems. In the future, I am passionate about developing innovative AI-driven solutions to address challenging decision-making and optimization tasks across various domains.
 
