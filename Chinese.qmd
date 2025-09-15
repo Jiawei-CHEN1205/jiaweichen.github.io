@@ -7,7 +7,7 @@ editor:
 
 <!-- ## 个人简介 -->
 
-陈家苇，女，博士在读。2022年毕业于哈尔滨工业大学（深圳）机电工程与自动化学院，获自动化专业工学学士学位。2022年秋季至今，就读于香港理工大学航空及民航工程学系，预计于2026年6月毕业。
+陈家苇，女，博士在读。2022年毕业于哈尔滨工业大学（深圳）机电工程与自动化学院，获自动化专业工学学士学位。2022年秋季至今，就读于香港理工大学航空及民航工程学系，预计于2026年8月毕业。
 研究方向为人工智能驱动的优化决策，预测控制等，成果见诸 *IEEE Transactions on Intelligent Transportation Systems*, *Management Science*, *Advanced Engineering Informatics*, *IEEE Transactions on Automation Science and Engineering* 等期刊。
 
 - 邮箱：superlaser-jw.chen@connect.polyu.hk (优先); byzcj1205@gmail.com 
@@ -18,7 +18,7 @@ editor:
 
 ## 教育和工作背景
 
-- 2022.09-至今 香港理工大学 航空及民航工程学系 博士在读
+- 2022.09-2026.08 (预计) 香港理工大学 航空及民航工程学系 博士
 - 2018.09-2022.08 哈尔滨工业大学（深圳） 机电工程与自动化学院 自动化专业 本科
 
 ## 参与教学任务
@@ -30,7 +30,7 @@ editor:
 - Reinforcement Learning for Combinatorial Optimization
 - Data-driven Optimization and Control
 - Healthcare \& Emergency Decision-Making
-- Intelligent Transportation Systems
+<!-- - Intelligent Transportation Systems -->
 - Cooperative AI
 - Dynamic Optimization
 <!-- 有待更新 -->
