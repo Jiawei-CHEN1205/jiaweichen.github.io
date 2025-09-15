@@ -8,9 +8,9 @@ editor:
 
 ## Invited Talk \& Presentation
 
-- 2025 POMS International Conference in China: Integrated UAV and Human Courier System for Emergency Medical Delivery Service, \@ Ocean Flower Island International Conference Center in Danzhou City, Hainan Province, China, 12 July, 2025 
+- [2025 POMS International Conference in China](https://poms.tju.edu.cn/): Integrated UAV and Human Courier System for Emergency Medical Delivery Service, \@ Ocean Flower Island International Conference Center in Danzhou City, Hainan Province, China, 12 July, 2025 
 - PolyU AAE Aviation Workshop: Cooperative Learning-based Joint UAV and Human Courier Scheduling for Emergency Medical Delivery Service, \@ The Hong Kong Polytechnic University, Hong Kong SAR, China, 22 Nov, 2024 
-- 2023 IEEM Conference: Collaborative medical delivery service with uavs and human couriers, \@ Marina Bay Sands, Singapore, 19 Dec, 2023
+- [2023 IEEM Conference](http://ieem2023.org/public.asp?page=index.asp): Collaborative medical delivery service with uavs and human couriers, \@ Marina Bay Sands, Singapore, 19 Dec, 2023
 
 
 ## Journal Reviewer
