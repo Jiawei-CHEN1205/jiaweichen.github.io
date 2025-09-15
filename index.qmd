@@ -1,6 +1,7 @@
 ---
 title: "Jiawei Chen"
-image: images/disney-bio.jpg
+image: images/testbio.png
+# images/disney-bio.jpg
 about:
   id: hero-heading
   template: trestles
