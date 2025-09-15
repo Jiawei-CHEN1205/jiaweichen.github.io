@@ -33,4 +33,4 @@ editor: visual
 
 ## Working Paper
 
--   **Chen, J.**, Wan, P., & Xu, G.^\*^ (2025). Learning-based Dynamic Multi-Function Vehicle Routing for Casualty Management in Disaster Response. *Available at SSRN 5153712*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5153712)
+-   **Chen, J.**, Wan, P., & Xu, G.^\*^ (2025). Learning for Dynamic Mass Casualty Management with Multi-Function Teams. *Available at SSRN 5153712*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5153712)
