@@ -39,10 +39,11 @@ editor:
 
 ## 发表论文
 
--   **Chen, J.**, Wan, P., & Xu, G. (2025). Cooperative Learning-Based Joint UAV and Human Courier Scheduling for Emergency Medical Delivery Service. IEEE Transactions on Intelligent Transportation Systems. [Link](https://doi.org/10.1109/tits.2024.3486789)
--   Wan, P., Xu, G., **Chen, J.**, & Zhou, Y. (2024). Deep Reinforcement Learning Enabled Multi-UAV Scheduling for Disaster Data Collection With Time-Varying Value. IEEE Transactions on Intelligent Transportation Systems. [Link](https://doi.org/10.1109/TITS.2023.3345280)
--   **Chen, J.**, Xu, G., & Zhou, Z. (2023). Data-driven learning-based Model Predictive Control for energy-intensive systems. Advanced Engineering Informatics, 58, 102208–102208. [Link](https://doi.org/10.1016/J.AEI.2023.102208)
--   **Chen, J.**, Wan, P., Xu, G., & Shao, S. (2023). Collaborative Medical Delivery Service with UAVs and Human Couriers. 2023 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 1340–1345. [Link](https://doi.org/10.1109/IEEM58616.2023.10406453)
+-   **Chen, J.**, Wan, P., & Xu, G.^\*^ (2025). Cooperative Learning-Based Joint UAV and Human Courier Scheduling for Emergency Medical Delivery Service. *IEEE Transactions on Intelligent Transportation Systems*. [Link](https://doi.org/10.1109/tits.2024.3486789)
+-   Liu, Y., Xie, B., Long, Y., **Chen, J.**, & Xu, G.^\*^ (2025). Learning-Based Heterogeneous Autonomous Vehicles Scheduling for On-Demand Last-Mile Transportation. *IEEE Transactions on Automation Science and Engineering*. [Link]()
+-   Wan, P., Xu, G.^\*^, **Chen, J.**, & Zhou, Y. (2024). Deep Reinforcement Learning Enabled Multi-UAV Scheduling for Disaster Data Collection With Time-Varying Value. *IEEE Transactions on Intelligent Transportation Systems*. [Link](https://doi.org/10.1109/TITS.2023.3345280)
+-   **Chen, J.**, Xu, G.^\*^, & Zhou, Z. (2023). Data-driven learning-based Model Predictive Control for energy-intensive systems. *Advanced Engineering Informatics*, 58, 102208–102208. [Link](https://doi.org/10.1016/J.AEI.2023.102208)
+-   **Chen, J.**, Wan, P., Xu, G., & Shao, S. (2023). Collaborative Medical Delivery Service with UAVs and Human Couriers. *2023 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)*, 1340–1345. [Link](https://doi.org/10.1109/IEEM58616.2023.10406453)
 
 
 <!-- ## 科研项目 -->
