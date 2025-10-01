@@ -16,9 +16,9 @@ editor: visual
 -  Reinforcement Learning for Combinatorial Optimization
 -  Data-driven Optimization and Control
 -  Healthcare \& Emergency Decision-Making
-<!-- -  Intelligent Transportation Systems -->
 -  Cooperative AI
 -  Dynamic Optimization
+-  Intelligent Transportation Systems
 
 ## Journal Paper
 
