@@ -34,3 +34,6 @@ editor: visual
 ## Working Paper
 
 -   **Chen, J.**, Wan, P., & Xu, G.^\*^ (2025). Learning for Dynamic Mass Casualty Management with Multi-Function Teams. *Available at SSRN 5153712*. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5153712)
+-   **Chen, J.**, Wan, P., & Xu, G.^\*^ (2025). Learning-based Collaborative Multi-Team Routing with Temporal Dependencies. *Under Review*.
+-   Wan, P., **Chen, J.**, Xu, G.^\*^, & Zhu, Z. (2025). Cooperate to Generalize: Deep Reinforcement Learning for Real-time Ad Hoc Team Routing. *Under Review at Nature Portfolio*. [Link](https://www.researchsquare.com/article/rs-7896001/v1)
+-   Wan, P., **Chen, J.**, & Xu, G.^\*^ (2025). Deep Reinforcement Learning for Fleet Size and Mix Vehicle Routing Problem. *Under Review*.
