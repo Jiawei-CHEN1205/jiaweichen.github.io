@@ -60,8 +60,8 @@ Specifically, during PhD, my research interests include reinforcement learning f
 
 - Dec 2025 [Research] I give a poster presentation on 13th International Conference on Robot Intelligence Technology and Applications (RiTA 2025) in King's College London, London, United Kingdom.
 - Sep 2025 [Research] Our journal paper entitled **Learning-Based Heterogeneous Autonomous Vehicles Scheduling for On-Demand Last-Mile Transportation** is accepted by *IEEE Transactions on Automation Science and Engineering!*
-- July 2025 [Research] I give an oral presentation on 2025 POMS International Conference in China, Ocean Flower Island International Conference Center in Danzhou City, Hainan Province, China.
-- July 2025 [Service] I serve as an assistant for The 28th Air Transport Research Society (ATRS) World Conference in Hong Kong, China. 
+- July 2025 [Research] I give an oral presentation on 2025 POMS International Conference in China (POMS China), in Danzhou City, Hainan Province, China.
+- July 2025 [Service] I serve as an assistant for the 28th Air Transport Research Society (ATRS) World Conference in Hong Kong, China. 
 - Nov 2024 [Research] Our journal paper entitled **Cooperative Learning-Based Joint UAV and Human Courier Scheduling for Emergency Medical Delivery Service** is accepted by *IEEE Transactions on Intelligent Transportation Systems!*
 
 :::
