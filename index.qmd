@@ -53,12 +53,14 @@ Specifically, during PhD, my research interests include reinforcement learning f
 
 ## Background
 
-- Sep 2022 - Present: Ph.D. Candidate in Computational Intelligence, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong, China.
+- Sep 2022 - Present: Ph.D. Candidate in Systems Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong, China.
+- Feb 2026 - July 2026: Visiting Ph.D. Student, [McGill University](https://www.mcgill.ca/) in Montréal, Canada.
 - Sep 2018 - Aug 2022: Bachelor of Engineering in Automation, [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), China.
 
 ## News
 
-- I am currently on the **job market** and actively seeking **Post-doc, Lecturer, or Assistant Professor** opportunities beginning in **September 2026 or later**. Please feel free to contact me if you are aware of suitable positions or potential collaborations.
+<!-- - I am currently on the **job market** and actively seeking **Post-doc, Lecturer, or Assistant Professor** opportunities beginning in **September 2026 or later**. Please feel free to contact me if you are aware of suitable positions or potential collaborations. -->
+- I am an incoming Assistant Professor (Lecturer) in Business at University College Dublin (UCD) Singapore.
 - Feb 2026 [Research] I will go to McGill University in Canada for a research visit, @ [HMTS Lab](https://www.jbyu.net/) with [Prof. Jiangbo Yu](https://www.mcgill.ca/civil/jiangbo-yu).
 - Dec 2025 [Research] I give a poster presentation on 13th International Conference on Robot Intelligence Technology and Applications (RiTA 2025) in King's College London, London, United Kingdom.
 - Sep 2025 [Research] Our journal paper entitled **Learning-Based Heterogeneous Autonomous Vehicles Scheduling for On-Demand Last-Mile Transportation** is accepted by *IEEE Transactions on Automation Science and Engineering!*
